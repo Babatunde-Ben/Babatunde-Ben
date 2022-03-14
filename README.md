@@ -5,9 +5,10 @@
 
 ### I am proficient in
 
-- JavaScript
 - HTML
 - CSS
+- Tailwind CSS
+- JavaScript
 - Git Version Control
 
 ### Continuous deployment on
