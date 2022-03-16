@@ -10,6 +10,8 @@
 - Tailwind CSS
 - JavaScript
 - Git Version Control
+- Firebase (Backend-as-a-Service)
+
 
 ### Continuous deployment on
 
