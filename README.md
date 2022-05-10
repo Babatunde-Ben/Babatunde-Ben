@@ -9,6 +9,7 @@
 - CSS
 - Tailwind CSS
 - JavaScript
+- React JS
 - Git Version Control
 - Firebase (Backend-as-a-Service)
 
