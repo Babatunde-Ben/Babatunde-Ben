@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Babatunde Adeniyi, a frontend web developer 
 ---
-- I am an inquisitive frontend web developer with the sole aim of making the world a better place through my technical and soft skills.
+- I am an inquisitive frontend web developer with 2 years experience who have the sole aim of making the world a better place through my technical and soft skills.
 ---
 
 ### I am proficient in
