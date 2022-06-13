@@ -9,7 +9,7 @@ These tools come and go, but some concepts are kept, that's where I keep my effo
 
 ### Continuous deployment on
 
-- Netlify
+Netlify || Vercel || Github Pages
 
 ---
 
