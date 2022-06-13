@@ -3,21 +3,13 @@
 
 ### I am proficient in
 
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-- React JS
-- Git Version Control
-- Firebase (Backend-as-a-Service)
+HTML || CSS || Tailwind CSS || JavaScript || React JS || Git Version Control || Firebase (Backend-as-a-Service)
 
+These tools come and go, but some concepts are kept, that's where I keep my efforts.
 
 ### Continuous deployment on
 
 - Netlify
-
----
-### These tools come and go, but some concepts are kept, that's where I keep my efforts.
 
 ---
 
