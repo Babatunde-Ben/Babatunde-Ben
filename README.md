@@ -16,9 +16,14 @@
 
 - Netlify
 
-These tools come and go, but some concepts are kept, that's where I keep my efforts.
+---
+### These tools come and go, but some concepts are kept, that's where I keep my efforts.
+
+---
 
 ### 📫 How to reach me:
+- Gmail: <babatundeben110@gmail.com>
 - LinkedIn: [Babatunde Adeniyi](https://www.linkedin.com/in/babatundeadeniyi/)
 - Whatsapp: <https://wa.me/2349072583081>
+
 
