@@ -5,7 +5,7 @@
 
 HTML || CSS || Tailwind || BootStrap || Material UI || JavaScript || TypeScript || React JS || Figma || Git || Firebase (Backend-as-a-Service)
 
-These tools come and go, but some concepts are kept, that's where I keep my efforts.
+These tools come and go. Invariably, some concepts are kept, that's where I keep my efforts.
 
 ### Continuous deployment on
 
