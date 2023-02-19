@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Babatunde Adeniyi, a frontend web developer with 3 years of experience in building websites that are user-friendly, SEO friendly, scalable and responsive.
+### 👋 Hi, I’m Babatunde Adeniyi, a frontend web developer with over 3 years of experience in building websites that are user-friendly, SEO friendly, scalable and responsive.
 ---
 
 ### I am proficient in
