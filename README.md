@@ -3,7 +3,7 @@
 
 ### I am proficient in
 
-HTML || CSS || Tailwind CSS || BootStrap CSS || Material UI || Styled Components || JavaScript || TypeScript || React || Figma || Git || Firebase 
+HTML || CSS || Tailwind CSS || BootStrap CSS || Material UI || Styled Component || JavaScript || TypeScript || React || Figma || Git || Firebase 
 
 These tools come and go. Invariably, some concepts are kept, that's where I keep my efforts.
 
