@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Babatunde Adeniyi
 
-### 🌟 Senior Frontend Web Developer | Passionate about Creating Responsive & User-Friendly Web Experiences
+### 🌟 Senior Frontend Web Developer | Passionate about creating responsive & user-friendly web experiences
 
 ---
 
