@@ -59,4 +59,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 Whether you're looking for a developer to bring your vision to life or want to collaborate on an exciting project, I'm ready to contribute my skills and experience to create something extraordinary.
 
-![Profile Picture](https://i.postimg.cc/yNX4wDZb/Group-265.png)
+
