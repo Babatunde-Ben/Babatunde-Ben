@@ -53,6 +53,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babatunde-ben&layout=compact&theme=radical)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Babatunde-Ben&theme=gruvbox" alt = "" /></a> </p>
+
 ---
 
 ## ✨ Let's Build Something Amazing
