@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Babatunde Adeniyi
 
-### 🌟 Senior Frontend Web Developer | Passionate about creating responsive & user-friendly web experiences
+### 🌟 Seasoned Frontend Web Developer | Passionate about creating responsive & user-friendly web experiences
 
 ---
 
-With over 4 years of experience in the field, I specialize in building websites that are not only visually appealing but also highly functional and SEO-friendly. My goal is to translate user needs into practical designs, and my dedication to continuous learning ensures that I stay updated with the latest technologies and trends.
+With over 5 years of experience in the field, I specialize in building websites that are visually appealing, highly functional and SEO-friendly. My goal is to translate user needs into practical designs, and my dedication to continuous learning ensures that I stay updated with the latest technologies and trends.
 
 ---
 
