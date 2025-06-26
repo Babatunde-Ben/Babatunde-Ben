@@ -35,6 +35,9 @@ With over 5 years of experience in the field, I specialize in building websites 
 **Backend as a Service (BaaS):**
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
+**Headless CMS:**
+- ![Sanity.io](https://img.shields.io/badge/Sanity.io-FF6C37?style=for-the-badge&logo=sanity&logoColor=white)
+
 ---
 
 ## 📫 How to Reach Me
